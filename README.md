@@ -1,2 +1,2 @@
-# GoCord 
-GoCord is a brand new light discord library for Go!
+# GoDisc
+GoDisc is a brand new light discord library for Go!
